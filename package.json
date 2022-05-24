@@ -1,7 +1,7 @@
 {
   "name": "@edentidus/react-media-lightbox",
-  "version": "5.1.4",
-  "description": "A lightbox component for React.js forked from react-image-lightbox",
+  "version": "1.0.1",
+  "description": "A lightbox component for React forked from react-image-lightbox",
   "scripts": {
     "build": "rollup -c",
     "build:demo": "parcel build examples/cats/index.html --out-dir build --public-url ./",
