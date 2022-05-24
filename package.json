@@ -1,7 +1,7 @@
 {
-  "name": "react-image-lightbox",
+  "name": "@edentidus/react-media-lightbox",
   "version": "5.1.4",
-  "description": "A lightbox component for React.js",
+  "description": "A lightbox component for React.js forked from react-image-lightbox",
   "scripts": {
     "build": "rollup -c",
     "build:demo": "parcel build examples/cats/index.html --out-dir build --public-url ./",
@@ -43,7 +43,8 @@
   ],
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-modal": "^3.11.1"
+    "react-modal": "^3.11.1",
+    "yarn": "^1.22.18"
   },
   "peerDependencies": {
     "react": "16.x || 17.x",
